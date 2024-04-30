@@ -1,7 +1,7 @@
 # TwitchManager by JuanpiDAndaAssets
 ENGLISH: 
 Public Repo with the Asset Package of Twitch Manager by JuanpiDAndaAssets.
-Twitch Manager is an Asset that allows you to connect to the TCPClient of your Twitch Chat with your Unity Project, so you can receive messages from the chat to your Unity Project and read them on your console, as well as allow you to send messages to the Twitch Chat from your Unity Project. This can be done from Edit Mode or from Play Mode
+Twitch Manager is an Asset that allows you to connect to the TCPClient of your Twitch Chat with your Unity Project, so you can receive messages from the chat to your Unity Project and read them on your console, as well as allow you to send messages to the Twitch Chat from your Unity Project. This can be done from Edit Mode or from Play Mode.
 
 CAREFUL: YOU MUSTN'T SHOW YOUR TWITCH CREDENTIALSTO ANYONE, they're private, specific with your oAuth Token generated from the link included on the script of TwitchCredentialsSO.
 
@@ -21,7 +21,7 @@ If you use this Asset for your projects i will appreciate a mention of me.
 
 ESPAÑOL: 
 Repositorio Público con el Asset Package de Twitch Manager de JuanpiDAndaAssets.
-Twitch Manager es un Asset dónde puedes conectar e TCPClient de tu chat de Twitch con tu proyecto de Unity para recibir mensajes a tu proyecto y poderlos leer, al igual que poder enviar mensajes al chat de Twtich desde tu proyecto en Unity. Esto es para tanto Edit Mode como Play Mode
+Twitch Manager es un Asset dónde puedes conectar e TCPClient de tu chat de Twitch con tu proyecto de Unity para recibir mensajes a tu proyecto y poderlos leer, al igual que poder enviar mensajes al chat de Twtich desde tu proyecto en Unity. Esto es para tanto Edit Mode como Play Mode.
 
 CUIDADO: NO DEBES MOSTRAR TUS TWITCH CREDENTIALS A NADIE, son privadas, en especial tu oAuth token que generas desde el link que viene en el script de TwitchCredentialsSO.
 
