@@ -17,6 +17,7 @@ But basically is:
 6) Exploit your imagination
 
 If you use this Asset for your projects i will appreciate a mention of me.
+--JuanpiDAndaAssets
 
 ESPAÑOL: 
 Repositorio Público con el Asset Package de Twitch Manager de JuanpiDAndaAssets.
