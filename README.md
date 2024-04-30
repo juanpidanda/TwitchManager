@@ -1,5 +1,5 @@
 # TwitchManager by JuanpiDAndaAssets
-ENGLISH:
+ENGLISH:)
 Public Repo with the Asset Package of Twitch Manager by JuanpiDAndaAssets.
 Twitch Manager is an Asset that allows you to connect to the TCPClient of your Twitch Chat with your Unity Project, so you can receive messages from the chat to your Unity Project an read them on console, as well as allow you to send messages to the Twitch Chat from your Unity Project. This can be done from Edit Mode or from Play Mode
 
@@ -16,7 +16,7 @@ But basically is:
 5) Conect vía Edit Mode or Play Mode
 6) Exploit your imagination
 
-ESPAÑOL:
+ESPAÑOL:)
 Repositorio Público con el Asset Package de Twitch Manager de JuanpiDAndaAssets.
 Twitch Manager es un Asset dónde puedes conectar e TCPClient de tu chat de Twitch con tu proyecto de Unity para recibir mensajes a tu proyecto y poderlos leer, al igual que poder enviar mensajes al chat de Twtich desde tu proyecto en Unity. Esto es para tanto Edit Mode como Play Mode
 
