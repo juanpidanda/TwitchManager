@@ -5,7 +5,7 @@ Twitch Manager is an Asset that allows you to connect to the TCPClient of your T
 
 CAREFUL: YOU MUSTN'T SHOW YOUR TWITCH CREDENTIALSTO ANYONE, they're private, specific with your oAuth Token generated from the link included on the script of TwitchCredentialsSO.
 
-Instrucions are on the scripts but if you have any doubt you can check my stream repeat https://youtu.be/Fa8rj_kqJWk at the chapter "¿Cómo Utilizar el Asset de Twitch Manager V 01_0_0?
+Instructions are on the scripts but if you have any doubt you can check my stream repeat https://youtu.be/Fa8rj_kqJWk in the chapter "¿Cómo Utilizar el Asset de Twitch Manager V 01_0_0?
 If it isn't clear for you contact me to update the documentation.
 
 But basically is:
